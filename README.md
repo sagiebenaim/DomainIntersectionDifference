@@ -55,7 +55,7 @@ Figure from paper describing the method:
 ## Reference
 If you found this code useful, please cite the following paper:
 ```
-@inproceedings{Benaim2018OneShotUC,
+@inproceedings{Benaim2019DomainIntersectionDifference,
   title={Domain Intersection and Domain Difference},
   author={Sagie Benaim and Michael Khaitov and Tomer Galanti and Lior Wolf},
   booktitle={ICCV},
