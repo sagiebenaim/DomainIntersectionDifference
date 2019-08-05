@@ -1,4 +1,6 @@
-Pytorch Implementation of "Domain Intersection and Domain Difference"
+# Domain Intersectio and Domain Difference
+
+Pytorch Implementation of "Domain Intersection and Domain Difference" (ICCV 2019)
 
 ## Prerequisites
 - Python 2.7 / 3.6
