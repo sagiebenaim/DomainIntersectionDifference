@@ -47,7 +47,7 @@ python eval.py --root ./smile_glasses --out ./smile_glasses_eval --sep 25 --num_
 ```
 
 ## Figure
-Figure from paper describing the method
+Figure from paper describing the method:
 
 <img src="DiagramsDomainIntersection.png" width="600px">
 
@@ -62,3 +62,7 @@ If you found this code useful, please cite the following paper:
   year={2019}
 }
 ```
+
+## Acknowledgements
+
+The implementation is based on the architecture of [Content Disentanglement](https://github.com/oripress/ContentDisentanglement).
