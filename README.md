@@ -49,7 +49,7 @@ python eval.py --root ./smile_glasses --out ./smile_glasses_eval --sep 25 --num_
 ## Figure
 Figure from paper describing the method
 
-<img src="DiagramDomainIntersection.png" width="600px">
+<img src="DiagramsDomainIntersection.png" width="600px">
 
 
 ## Reference
