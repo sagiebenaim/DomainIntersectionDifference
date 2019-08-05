@@ -1,4 +1,4 @@
-# Domain Intersectio and Domain Difference
+# Domain Intersection and Domain Difference
 
 Pytorch Implementation of "Domain Intersection and Domain Difference" (ICCV 2019)
 
