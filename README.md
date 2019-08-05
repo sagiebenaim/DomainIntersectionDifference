@@ -9,7 +9,7 @@ Pytorch Implementation of "Domain Intersection and Domain Difference"
 
 ### Download and Prepare the Data
 Download the celeba dataset. Create a celeb directory and place the img_align_celeba folder and list_attr_celeba.txt inside. 
-```
+
 You can use the provided script ```preprocess.py``` to split celebA into the above format (with A and B based on the attribute of your choosing).
 For example, you can run the script using the following command:
 ```
@@ -48,7 +48,6 @@ python eval.py --root ./smile_glasses --out ./smile_glasses_eval --sep 25 --num_
 
 ## Figure
 Figure from paper describing the method
-```
 
 <img src="DiagramDomainIntersection.png" width="600px">
 
