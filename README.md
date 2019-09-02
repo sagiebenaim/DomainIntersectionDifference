@@ -1,4 +1,4 @@
-# Domain Intersection and Domain Difference [arxiv](https://arxiv.org/abs/1908.11628)
+# Domain Intersection and Domain Difference ([arxiv](https://arxiv.org/abs/1908.11628)). 
 
 Pytorch Implementation of "Domain Intersection and Domain Difference" (ICCV 2019)
 
