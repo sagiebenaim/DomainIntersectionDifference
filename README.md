@@ -1,6 +1,6 @@
-# Domain Intersection and Domain Difference
+# Domain Intersection and Domain Difference [arxiv](https://arxiv.org/abs/1908.11628)
 
-Pytorch Implementation of "Domain Intersection and Domain Difference" (ICCV 2019) [arxiv](https://arxiv.org/abs/1908.11628).
+Pytorch Implementation of "Domain Intersection and Domain Difference" (ICCV 2019)
 
 ## Prerequisites
 - Python 2.7 / 3.6
